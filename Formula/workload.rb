@@ -1,9 +1,9 @@
 class Workload < Formula
   desc "Workload CLI"
   homepage "https://github.com/medusa-software-hq/workload"
-  url "https://github.com/medusa-software-hq/workload-releases/releases/download/0.0.20/workload-cli.jar"
-  sha256 "feb425c70438704668be901e36c57cb47cf2d29b2d7b27077e0222d98037e500"
-  version "0.0.20"
+  url "https://github.com/medusa-software-hq/workload-releases/releases/download/0.0.21/workload-cli.jar"
+  sha256 "ad6f2a3027dd6670830a3541acff2b779f90eb7d8be35a49481e19026d45fdfd"
+  version "0.0.21"
 
   depends_on "openjdk@21"
 
