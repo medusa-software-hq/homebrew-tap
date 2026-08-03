@@ -1,9 +1,9 @@
 class Flow < Formula
   desc "Flow CLI"
   homepage "https://github.com/medusa-software-hq/flow"
-  url "https://github.com/medusa-software-hq/flow-releases/releases/download/0.0.69/flow-cli.jar"
-  sha256 "9c80fb099fab6c86dc4a1191e93af8683c381f5b7ea8b9fccaa2f01239d5a342"
-  version "0.0.69"
+  url "https://github.com/medusa-software-hq/flow-releases/releases/download/0.0.70/flow-cli.jar"
+  sha256 "e58c4308e8a19092426c245d7c44b349a9392fa97dc78ddd60be40f4942cba8d"
+  version "0.0.70"
 
   depends_on "openjdk@21"
 
