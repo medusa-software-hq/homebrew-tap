@@ -1,9 +1,9 @@
 class Farm < Formula
   desc "Farm CLI"
   homepage "https://github.com/medusa-software-hq/farm"
-  url "https://github.com/medusa-software-hq/farm-releases/releases/download/0.0.12/farm-cli.jar"
-  sha256 "4ad7c1ead169241774f5a44ad4dc55b6a440a17ef014d1ca0faa4e19657f2e54"
-  version "0.0.12"
+  url "https://github.com/medusa-software-hq/farm-releases/releases/download/0.0.13/farm-cli.jar"
+  sha256 "049cdb6040eb67605d88b409eb5a8444958603d202794e38d04e0879ff72049c"
+  version "0.0.13"
 
   depends_on "openjdk@21"
 
