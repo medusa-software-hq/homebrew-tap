@@ -1,9 +1,9 @@
 class CounterAws < Formula
   desc "Counter CLI (AWS variant)"
   homepage "https://github.com/medusa-software-hq/counter-aws"
-  url "https://github.com/medusa-software-hq/counter-aws-releases/releases/download/0.0.12/counter-cli.jar"
-  sha256 "7b5159e3d541339d6feab16aa28db1805ebe816437898b312f1970c57268bd53"
-  version "0.0.12"
+  url "https://github.com/medusa-software-hq/counter-aws-releases/releases/download/0.0.13/counter-cli.jar"
+  sha256 "bdfc133d2fe99c0c0705f309ec9e3d6513f68e3d896e656303519f51088d81c6"
+  version "0.0.13"
 
   depends_on "openjdk@21"
 
